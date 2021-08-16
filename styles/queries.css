@@ -1,0 +1,78 @@
+@media (max-width: 78em) {
+  .hero-text-box {
+    padding: 4rem;
+  }
+  .container {
+    padding: 0 2rem;
+  }
+}
+
+@media (max-width: 52rem) {
+  html {
+    font-size: 50%;
+  }
+}
+
+@media (max-width: 45rem) {
+  .section-hero {
+    grid-template-columns: 1fr;
+    padding: 4rem;
+  }
+  .heading-primary {
+    padding: 2rem 12rem;
+  }
+  .hero-description {
+    padding: 4rem 8rem;
+  }
+  .hero-stats-box {
+    padding: 3rem;
+  }
+  .hero-img {
+    max-width: 60%;
+  }
+  .features-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 7rem;
+    padding: 4rem;
+  }
+  .cards-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 6rem;
+  }
+  .card {
+    max-width: 70%;
+  }
+}
+@media (max-width: 37em) {
+  html {
+    font-size: 43.75%;
+  }
+  .section-hero {
+    padding: 2rem 1rem;
+  }
+  .hero-stats-box {
+    column-gap: 2rem;
+  }
+  .heading-primary {
+    padding: 2rem 2rem;
+  }
+  .hero-text-box {
+    padding: 2rem;
+  }
+  .hero-description {
+    padding: 2rem;
+  }
+  .stats-box {
+    padding-bottom: 5rem;
+  }
+  .hero-img {
+    transform: translateX(-10%);
+  }
+  .nav {
+    padding: 0 2rem;
+  }
+}

@@ -1,0 +1,29 @@
+
+только проверенные поставщики
+
+виды товаров:
+Будматеріали
+Інструменти
+Декор
+
+фичи: почему мы
+
+приятные цены
+высокое качество 
+семейный бизнес 
+опыт многих лет
+
+
+355
+
+sections
+1. navigation 
+2. hero
+3. row of cards for goods
+4. features
+5. how to  buy steps
+6. call to action form
+7. footer
+
+
+change main img
